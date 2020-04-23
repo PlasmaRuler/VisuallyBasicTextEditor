@@ -1,2 +1,3 @@
-Changed Font to a standard looking font.
-Improved randomness to Sauce Generator and added a seed so the numbers generated would be diffrent everytime 
+Changed Font to a standard looking font. (Visuals / User Experience)
+Improved randomness to Sauce Generator and added a seed so the numbers generated would be diffrent everytime (Code improvement)
+Took away horizontal scrolling so the text would automatically move to the next line (User Experience)
