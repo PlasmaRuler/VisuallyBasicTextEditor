@@ -1,0 +1,14 @@
+New Update!
+Very beta because I wanted to get this out quick so I could go to sleep
+Many glitches and doesn't even check if you entered a number for the RGB code.
+
+Added Colored background and text, which is included in the new View menu.
+Changed the font size to 19 (note: not the same scale as Word's font size)
+You can change the text and background color by entering the RGB code of the color you want into the 3 diffrent boxes the values
+go from left to right R, G, and B. 
+Default background color is a brown and the text color is white. 
+
+Apoligize in advance for the terrible boxes and the text not updating immeadiately until you click the text box, I will fix that in
+V1.4 which will finalize the color update.
+
+Changed the banner's color to match the top Windows bar.
